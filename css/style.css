@@ -1,6 +1,8 @@
 .box {
     display: flex;
-    width: 100%;
+    justify-content: center;
+    align-items: center;
+    width: calc(100%/12);
     height: 50px;
     background-color: lightblue;
     border: 2px solid white;
